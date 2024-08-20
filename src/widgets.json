@@ -1,0 +1,40 @@
+[
+    {
+      "category": "CATEGORY 1",
+
+      "widgets": [
+        { "id": 1,
+        "name": "Widget 1", 
+        "text": "Lorem 1" 
+      },
+        { "id": 2, 
+        "name": "Widget 2", 
+        "text": "Lorem 2" 
+      },
+        { "id": 3, 
+        "name": "Widget 3", 
+        "text": "Lorem 3" 
+      }
+
+      ]
+    },
+    {
+      "category": "CATEGORY 2",
+      
+      "widgets": [
+        { "id": 4, 
+        "name": "Widget 4", 
+        "text": "Lorem 4" 
+      },
+        { "id": 5, 
+        "name": "Widget 5", 
+        "text": "Lorem 5" 
+      },
+        { "id": 6, 
+        "name": "Widget 6", 
+        "text": "Lorem 6" 
+      }
+      ]
+    }
+  ]
+  
