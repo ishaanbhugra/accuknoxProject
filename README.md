@@ -1,3 +1,21 @@
+### BY ISHAAN ###
+I HAVE DEPLOYED THE APPLICATION FOR YOUR CONVINIENCE, YOU CAN VISIT IT AT: https://accuknox-project.vercel.app/
+TO RUN THE APPLICATION LOCALLY, 
+1. DOWNLOAD THE CODE ZIP FILE AND EXTRACT IT
+2. OPEN THE TERMINAL
+3. RUN THE COMMANDS -
+   a. npm install @reduxjs/toolkit react-redux
+      (npm/ node is a pre-requisite)
+   b. npm start
+   - view at http://localhost:3000/
+
+### BY ISHAAN ###
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
